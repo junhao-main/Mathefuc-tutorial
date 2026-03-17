@@ -1,0 +1,10 @@
+{
+  "pages": [
+    { "slug": "getting-started", "title": "Getting Started", "navTitle": "Getting Started", "order": 1, "filePath": "getting-started.md" },
+    { "slug": "problem-sets", "title": "Problem Sets", "order": 2, "filePath": "problem-sets.md" },
+    { "slug": "library", "title": "Library", "order": 3, "filePath": "library.md" },
+    { "slug": "workspace", "title": "Workspace", "navTitle": "Workspace", "order": 10, "filePath": "workspace/index.md" },
+    { "slug": "workspace/source-annotations", "title": "Source Annotations", "navTitle": "Source Annotations", "order": 11, "filePath": "workspace/source-annotations.md" },
+    { "slug": "data/source-texts", "title": "Source Texts", "navTitle": "Source Texts", "order": 20, "filePath": "data/source-texts.md" }
+  ]
+}
